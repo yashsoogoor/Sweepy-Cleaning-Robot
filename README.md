@@ -1,5 +1,6 @@
 # Sweepy Cleaning Robot
  Software implementation for sweeping robot controlled by Mbed LPC1768 microcontroller
+ Uses open-source libraries for peripherals
 
 SW implementation of a cleaning robot that is controlled wirelessly via Bluetooth. Includes a LIDAR sensor, SD reader, speaker, and motors controlled by an Mbed microcontroller. It has multiple modes including:
 -Spot mode goes in circles cleaning a certain spot
