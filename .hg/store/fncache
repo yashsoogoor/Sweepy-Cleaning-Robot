@@ -1,0 +1,5 @@
+data/main.cpp.i
+data/mbed-rtos.lib.i
+data/SDFileSystem.lib.i
+data/wave_player.lib.i
+data/mbed.bld.i
