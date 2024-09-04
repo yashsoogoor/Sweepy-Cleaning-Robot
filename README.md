@@ -26,22 +26,22 @@ Testing Mode Switching/LIDAR:
 
 Challenges: 
 
-Shared variables and race conditions
-Limited peripheral support with Mbed microcontroller
-Need for multiple battery packs
-Limited cone of view of LIDAR chip
-High cost of high-quality LIDAR (better recently)
+Shared variables and race conditions;
+Limited peripheral support with Mbed microcontroller;
+Need for multiple battery packs;
+Limited cone of view of LIDAR chip;
+High cost of high-quality LIDAR (better recently);
 
 Ideas for Improvement:
 
 Have an array of LIDAR sensors or rotating LIDAR
--Roombas and other competition use sensors (slower and faulty in poor lighting)
-Develop comprehensive environment map with algorithmic solution
-Incorporate microcontroller and peripherals into custom PCB
-Eliminate extraneous wiring and breadboard
-Incorporate IoT for entertainment mode
-Use more powerful and capable microcontroller
-Higher processing power, memory, peripheral support, clock speed
+-Roombas and other competition use sensors (slower and faulty in poor lighting);
+Develop comprehensive environment map with algorithmic solution; 
+Incorporate microcontroller and peripherals into custom PCB;
+Eliminate extraneous wiring and breadboard;
+Incorporate IoT for entertainment mode;
+Use more powerful and capable microcontroller;
+Higher processing power, memory, peripheral support, clock speed;
 Battery monitoring
 ML to improve object detection and classification based on sensor data
 
